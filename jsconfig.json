@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@constants": [
+                "./src/constants"
+            ],
+            "@images": [
+                "./src/assets/images"
+            ],
+            "@icons": [
+                "./src/assets/icons"
+            ],
+            "@components": [
+                "./src/components"
+            ],
+            "@redux-store": [
+                "./src/redux-store"
+            ],
+            "@screens": [
+                "./src/screens"
+            ]
+        }
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
