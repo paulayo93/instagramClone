@@ -1,4 +1,4 @@
-# Intagram Clone
+# Instagram Clone
 
 
 # Setup Guide
